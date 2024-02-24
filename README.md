@@ -23,7 +23,7 @@ extension=mongodb
 
 ## Step 3: Verify MongoDB PHP Driver Installation
 
-1. Click on the WAMP server icon in the system tray and select "PHP" -> "pShow PHP Loaded Extensions" to open the PHP extensions list.
+1. Click on the WAMP server icon in the system tray and select "PHP" -> "Show PHP Loaded Extensions" to open the PHP extensions list.
 2. Look for the `mongodb` extension in the list to verify that the MongoDB PHP driver has been successfully installed.
 
 ## Step 4: Test MongoDB PHP Driver
